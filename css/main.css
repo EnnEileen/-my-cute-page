@@ -1,0 +1,87 @@
+
+
+{
+	outline: 4px solid red;
+}
+
+.row{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+/* PORTADA - LOGO - NOMBRE - FRASE */
+.portada{
+	background-image: url(../images/paisaje10.jpg);
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+}
+.logo{
+	text-align: center;
+	padding:100px 0;
+	text-align: center;
+	color: #FFFFFF;	
+}
+.logo h1{
+	color: green;
+}
+.logo h2{
+	text-align: center;
+	font-size: 25px;
+}
+
+
+/* BIOGRAFIA  */
+
+.col-md-4 img{
+	padding:200px 0;
+	border-style: 20px;
+}
+
+.col-md-8 p{
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Dancing Script', cursive;
+	padding:100px 0;
+}
+.contenido{
+	background:url(../images/tile1.png);
+}
+
+/*
+.foto {
+	border: 2px solid #F00D83;
+} 
+
+/* Fotografias circulares */
+
+.col-md-2 img{
+	height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    padding-top: 3px;
+    border:2px solid #E20AF0;
+    
+}
+
+
+footer .container h1
+{
+	text-align: center;
+	color: #F61278;
+	padding-top: 50px;
+}
+
+/* Redes Sociales */
+
+.redessociales{
+	background: url(../images/tile2.png);
+	width: 100%;
+	height: 600px;
+	
+}
